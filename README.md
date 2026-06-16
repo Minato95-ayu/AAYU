@@ -1,4 +1,11 @@
-# AAYU Programming Language
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Minato95-ayu/AAYU/master/logo.png" width="150" alt="AAYU Logo">
+  <h1>AAYU Programming Language</h1>
+  <p><b>Human-First Programming Language & Intent Engine</b></p>
+  <a href="https://minato95-ayu.github.io/AAYU/">Official Website</a>
+</div>
+
+<br>
 
 ## What is AAYU?
 
@@ -14,24 +21,16 @@ Instead of forcing humans to think like computers, AAYU is designed to allow com
 
 ## Vision
 
-> **Human Idea** → **AAYU Language** → **Machine Execution**
+```text
+Human Idea
+↓
+AAYU Language
+↓
+Machine Execution
+```
 
 The goal of AAYU is simple:
-
 > Make software creation as natural as writing instructions in human language.
-
----
-
-## Mission
-
-AAYU aims to:
-
-* Simplify software development
-* Reduce coding barriers
-* Help non-programmers build applications
-* Allow professionals to work faster
-* Bridge human language and machine language
-* Become a universal software creation platform
 
 ---
 
@@ -45,49 +44,28 @@ AAYU focuses on:
 
 ---
 
-## AAYU Formula
+## The AAYU Ecosystem
 
-**AAYU = Intent Understanding + Intent Verification + Architecture + Execution**
+AAYU is not just a language; it is an entire ecosystem orchestrating modern development:
 
----
-
-## Long-Term Goal
-
-AAYU is not only a programming language. It is intended to become:
-
-**Language + Compiler + Runtime + Framework + Intent Engine + Software Creation Platform**
-
----
-
-## Why AAYU?
-
-Today's developers often need to learn:
-* Python, JavaScript, TypeScript, React, SQL, Docker, Cloud Platforms, APIs, Frameworks...
-
-AAYU aims to unify software creation into a simpler experience.
+- **AAYU Language**: The syntax that humans use.
+- **AAYU Compiler**: Translates intent into strict execution graphs.
+- **Intent Engine**: AI-assisted module that resolves ambiguous instructions.
+- **Architecture Engine**: Automatically structures files, databases, and APIs.
+- **Application Generator**: Outputs production-ready React, Rust, or Python code.
+- **Runtime**: The execution environment.
 
 ---
 
-## Example Future Syntax
+## Example Syntax Comparison
 
-**Traditional Python:**
-```python
-print("Hello World")
+**Traditional Web Page (React/HTML):**
+```html
+<button style="background: blue" onClick={saveForm}>Submit</button>
 ```
 
 **Future AAYU:**
-```aayu
-show "Hello World"
-```
-
-**Traditional Web Page:**
-```javascript
-create button
-set color blue
-```
-
-**Future AAYU:**
-```aayu
+```text
 button "Submit"
 when clicked
     save form
@@ -95,65 +73,4 @@ when clicked
 
 ---
 
-## Planned Capabilities
-
-### Application Development
-* Web Applications
-* APIs
-* Dashboards
-* SaaS Platforms
-* Mobile Apps
-
-### Artificial Intelligence
-* AI Agents
-* Automation
-* Intent Processing
-* Knowledge Systems
-
-### Data Systems
-* Databases
-* Analytics
-* Search
-* Reporting
-
-### Infrastructure
-* Deployment
-* Containers
-* Cloud Integration
-
----
-
-## AAYU Logo Meaning
-
-The AAYU logo combines:
-
-### Human Intelligence
-Represented by the **Brain Pattern**.
-*Meaning: Creativity, Ideas, Intent, Human Thinking*
-
-### Machine Intelligence
-Represented by the **Circuit Pattern**.
-*Meaning: Logic, Computation, Execution, Automation*
-
-### The Letter A
-Represents **AAYU**, the bridge between **Human ↔ Machine**.
-
----
-
-## Current Status
-
-AAYU is currently in the research and prototype stage.
-
-The long-term roadmap includes:
-- **Phase 1:** Language Core
-- **Phase 2:** Compiler
-- **Phase 3:** Runtime
-- **Phase 4:** Application Framework
-- **Phase 5:** Intent Engine
-- **Phase 6:** AI Native Development
-
----
-
-## Official Definition
-
-> **AAYU is a Human-First Programming Language and Software Creation Platform designed to transform human intent into executable software with minimal complexity.**
+*Designed & Architected by [Minato95-ayu](https://github.com/Minato95-ayu)*
